@@ -42,7 +42,7 @@ The impact of the CDS is already evident through the AI-READI dataset. We expect
 
 ## Meeting material
 
-- `2026-ISMB-NIH-Patel-CDS-talk.pdf`: slides of our talk.
+- `ISMB20262280PatelTalk.pdf`: slides of our talk.
 
 ## Resources
 
